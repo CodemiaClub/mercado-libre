@@ -1,0 +1,39 @@
+.container-header {
+  display: flex;
+  justify-content: space-around;
+  background-color: #fff159;
+  width: 100%;    
+}
+
+.top-box {
+  display: flex;
+  
+}
+
+.header-input {
+  display: flex;
+  text-align: center;
+  align-items: center;
+  background-color: white;
+  width: 598px;
+  height: 39px;
+}
+
+.primer-input {
+  width: 50%;
+  border: none;
+  padding: 10px;
+}
+
+.segudno-input{
+  width: 14px;
+}
+
+.header-promo {
+  width: 340px;
+}
+
+.header-lupa {
+  height: 21px;
+  margin-left: 15px;
+}
