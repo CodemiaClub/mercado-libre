@@ -1,12 +1,14 @@
 .container-header {
   display: flex;
-  justify-content: space-around;
+  flex-direction: column;
+  align-items: center;
   background-color: #fff159;
   width: 100%;    
 }
 
 .top-box {
   display: flex;
+  margin: 5px 0px 5px;
   
 }
 
@@ -17,12 +19,14 @@
   background-color: white;
   width: 598px;
   height: 39px;
+  margin:0 20px 0 25px;
 }
 
 .primer-input {
   width: 50%;
   border: none;
   padding: 10px;
+  border-color: white;
 }
 
 .segudno-input{
@@ -31,9 +35,45 @@
 
 .header-promo {
   width: 340px;
+  cursor: pointer;
 }
 
 .header-lupa {
   height: 21px;
   margin-left: 15px;
+  cursor: pointer;
+}
+
+.bottom-box {
+  display: flex;
+}
+
+.ubicacion-logo {
+  height: 22px;
+  margin-right: 6px;
+}
+
+.header-ubicacion {
+  display: flex;
+}
+
+.letras p {
+  margin: 0;
+}
+
+.letras p:first-child {
+  font-size: 13px;
+}
+
+.header-busqueda ul {
+  display: flex;
+}
+
+.header-busqueda ul li {
+  list-style: none;
+  margin-left: 12px;
+}
+
+.carrito {
+  height: 25px;
 }
