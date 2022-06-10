@@ -1,0 +1,17 @@
+.usuarios nav  {
+  display: flex;
+  justify-content: center;
+     
+}
+
+.usuarios nav a {
+  margin-left: 15px;
+  text-decoration: none;
+  color: black;
+  font-size: 16px;
+}
+
+.carrito {
+  cursor: pointer;
+  margin-left: 20px;
+}

@@ -17,9 +17,10 @@
   text-align: center;
   align-items: center;
   background-color: white;
-  width: 598px;
-  height: 39px;
+  width: 668px;
+  height: 45px;
   margin:0 20px 0 25px;
+  
 }
 
 .primer-input {
@@ -29,8 +30,9 @@
   border-color: white;
 }
 
-.segudno-input{
-  width: 14px;
+.segundo-input{
+  width: 20px;
+  font-size: 15px;
 }
 
 .header-promo {
@@ -40,12 +42,14 @@
 
 .header-lupa {
   height: 21px;
-  margin-left: 15px;
+  margin-left: 50px;
   cursor: pointer;
 }
 
 .bottom-box {
   display: flex;
+  align-items: center;
+  justify-content: space-around;
 }
 
 .ubicacion-logo {
@@ -72,6 +76,7 @@
 .header-busqueda ul li {
   list-style: none;
   margin-left: 12px;
+  cursor: pointer;
 }
 
 .carrito {
