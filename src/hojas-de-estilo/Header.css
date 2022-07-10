@@ -3,7 +3,8 @@
   flex-direction: column;
   align-items: center;
   background-color: #fff159;
-  width: 100%;    
+  width: 100%; 
+  min-width: 1300px;   
 }
 
 .top-box {
@@ -28,6 +29,7 @@
   border: none;
   padding: 10px;
   border-color: white;
+  border-radius: 5px;
 }
 
 .segundo-input{
