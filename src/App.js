@@ -1,13 +1,12 @@
-import {useState, useEffect} from 'react';
 import './App.css';
-import Header from './componentes/Header';
+import Header from './componentes/Header/Header';
 
 
 
 function App() {
 
   return (
-  hola
+    <Header />
   );
 }
 
