@@ -2,4 +2,5 @@
   display: flex;
   background-color: #fff159;
   width: 100%;  
+  justify-content: center;
 }

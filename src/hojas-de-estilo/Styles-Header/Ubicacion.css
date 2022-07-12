@@ -1,0 +1,21 @@
+.container-ubicacion {
+  display: flex; 
+ 
+}
+
+.text-ubicacion {
+  margin-top: -3px;
+  margin-left: 3px;
+}
+
+.container-ubicacion p:first-child{
+  color: rgba(0,0,0,0.5);
+  margin-bottom: -5px;
+  font-size: 12px;
+}
+
+.container-ubicacion p:last-child{
+  color: #333;
+  font-size: 14px;
+}
+
