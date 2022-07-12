@@ -1,0 +1,27 @@
+.container-search{
+    box-sizing: border-box;
+    background-color: white;
+    padding: 8px;
+    width: 598px;
+    height: 39px;
+    font-size: 13px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.search {
+    width: 348px;
+}
+
+.check{
+    display: flex;
+    border-left: 1px solid gray;
+    border-right: 1px solid gray;
+    padding: 0 15px 0 15px;
+    
+}
+
+.check input {
+    margin-right: 4px;
+}
