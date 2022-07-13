@@ -7,7 +7,7 @@ function ProductSearch() {
             <input className="search" type="text" placeholder="Buscar productos, marcas y mas..."/>
             <div className="check">
             <input type="checkbox"/>
-            <p>Solo en Computación</p>
+            <p>Solo en HP Tienda Oficial oficial</p>
             </div>
             <SearchIcon />
         </div>

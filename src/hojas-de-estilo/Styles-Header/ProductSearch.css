@@ -8,6 +8,7 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
+    
 }
 
 .search {
@@ -18,10 +19,16 @@
     display: flex;
     border-left: 1px solid gray;
     border-right: 1px solid gray;
-    padding: 0 15px 0 15px;
-    
+    padding: 0 1px 0 1px;
+    font-size: 14px;
+    width: 235px;
+    justify-content: center;
+    margin-left: -70px;
 }
+
+
 
 .check input {
     margin-right: 4px;
+
 }
