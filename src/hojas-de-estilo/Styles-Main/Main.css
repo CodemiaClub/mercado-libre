@@ -2,10 +2,14 @@
     display: flex;
     width: 100%;
     justify-content: center;
-    background-color: red;
+    background-color: #ededed;
 }
 
 .main-content{
     width: 1200px;
     background-color: aqua;
+}
+
+.product-filter{
+    display: flex;
 }

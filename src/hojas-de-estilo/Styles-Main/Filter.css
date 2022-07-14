@@ -1,0 +1,23 @@
+.container-filter{
+    width: 278px;
+    padding-right: 14px;
+}
+
+.container-filter p:first-child{
+    font-size: 14px;
+    color: #666;
+}
+
+.container-filter p:first-child:hover{
+    color: #333;
+}
+
+.container-filter p{
+    font-size: 26px;
+    color: #333;
+}
+
+.container-filter p:last-child{
+    font-size: 14px;
+    color: #333;
+}
