@@ -1,7 +1,15 @@
-.container-profile{
+.profile{
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
     position: relative;
-    left: 100px;
     top: -50px;
+    ;
+}
+
+
+.container-profile{
+    
     box-sizing: content-box;
     width: 122px;
     height: 90px;

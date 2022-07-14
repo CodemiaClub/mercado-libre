@@ -2,7 +2,7 @@ import "./App.css";
 import Header from "./componentes/Header/Header";
 import { ChakraProvider } from "@chakra-ui/react";
 import Banner from "./componentes/Banner/Baner";
-import Profile from "./componentes/Main/Profile";
+import Main from "./componentes/Main/Main";
 
 function App() {
   return (
@@ -11,7 +11,7 @@ function App() {
         <Header />
       </ChakraProvider>
       <Banner />
-      <Profile />
+      <Main />
     </div>
   );
 }
