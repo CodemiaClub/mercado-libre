@@ -1,7 +1,16 @@
+.Heder{
+  display: flex;
+  justify-content: center;
+  background-color: #fff159;
+  width: 100%;
+}
+
 .container-header {
   display: flex;
   background-color: #fff159;
-  width: 100%;  
-  justify-content: center;
+  width: 1200px;
+  min-width: 1000px;  
+  justify-content: space-around;
   padding: 5px;
+  
 }
