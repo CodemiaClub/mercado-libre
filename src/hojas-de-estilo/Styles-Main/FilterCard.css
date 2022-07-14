@@ -1,0 +1,18 @@
+.container-filterCard{
+    width: 242px;
+    
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 16px;
+    border: 1px solid #ddd;
+    -webkit-border-radius: 6px;
+    border-radius: 6px;
+    font-size: 14px;
+    margin-top: 10px;
+}
+
+.container-filterCard p:last-child{
+    font-size: 12px;
+}
