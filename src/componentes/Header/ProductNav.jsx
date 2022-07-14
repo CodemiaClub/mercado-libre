@@ -22,6 +22,8 @@ function ProductNav() {
           _hover={{
             color:'#333'
           }}
+          width='auto'
+          
         >
           Categorias
         </MenuButton>
