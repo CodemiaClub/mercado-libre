@@ -1,0 +1,15 @@
+.container-profile{
+    position: relative;
+    left: 100px;
+    top: -50px;
+    box-sizing: content-box;
+    width: 122px;
+    height: 90px;
+    background-image: url('https://http2.mlstatic.com/D_NP_698488-MLA45917797720_052021-T.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 4px;
+    box-shadow: 0 1px 1px 0 rgba(0,0,0,.15), 0 -1px 2px 0 rgba(0,0,0,.15);
+    border-radius: 5px;
+    }
