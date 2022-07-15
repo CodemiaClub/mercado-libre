@@ -1,6 +1,5 @@
 .container-filterCard{
     width: 242px;
-    
     background-color: white;
     display: flex;
     justify-content: center;
@@ -11,6 +10,11 @@
     border-radius: 6px;
     font-size: 14px;
     margin-top: 10px;
+}
+
+.t1{
+    display: flex;
+    
 }
 
 .container-filterCard p:last-child{

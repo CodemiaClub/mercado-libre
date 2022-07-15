@@ -1,0 +1,17 @@
+.inputFIlter{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 220px;
+    color: rgb(153, 153, 153);
+}
+
+
+.inputFIlter Input{
+    
+    border-radius: 4px;
+    font-size: 12px;
+    display: flex;
+    align-items: center;
+    padding: 8px;
+}
