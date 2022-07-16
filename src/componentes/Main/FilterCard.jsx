@@ -5,6 +5,7 @@ function FilterCard({ img, title, text }) {
   return (
     <>
     <div className="container-filterCard">
+
       <div className="container-filtercard-two">
         <div className="t1">
           <a href="#">{img}</a>
@@ -12,6 +13,7 @@ function FilterCard({ img, title, text }) {
         </div>
         <p>{text}</p>
       </div>
+      
       <Toggle />
     </div>
     
