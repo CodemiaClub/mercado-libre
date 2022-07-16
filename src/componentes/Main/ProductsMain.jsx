@@ -1,5 +1,6 @@
 import '../../hojas-de-estilo/Styles-Main/ProductsMain.css';
 import Caveat from './Caveat';
+import PagesProducts from './PagesProducts';
 import Product from './Product';
 
 function Products() {
@@ -97,6 +98,7 @@ function Products() {
                     descripción='Impresora a color multifunción HP Ink Tank 315 negra 200V - 240V' />
             </div>
             <Caveat />
+            <PagesProducts />
         </div>
     )
 }
