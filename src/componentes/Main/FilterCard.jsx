@@ -1,4 +1,5 @@
 import "../../hojas-de-estilo/Styles-Main/FilterCard.css";
+import Toggle from "./Toggle";
 
 function FilterCard({ img, title, text }) {
   return (
@@ -11,7 +12,7 @@ function FilterCard({ img, title, text }) {
         </div>
         <p>{text}</p>
       </div>
-      
+      <Toggle />
     </div>
     
   </>
