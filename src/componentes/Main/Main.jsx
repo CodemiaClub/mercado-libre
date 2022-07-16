@@ -1,7 +1,7 @@
 import "../../hojas-de-estilo/Styles-Main/Main.css";
 import Profile from "../Main/Profile";
 import Filter from "./FIlter";
-import Products from "./Products";
+import ProductsMain from "./ProductsMain";
 
 function Main() {
   return (
@@ -10,7 +10,7 @@ function Main() {
         <Profile />
         <div className="product-filter">
             <Filter />
-            <Products />
+            <ProductsMain />
         </div>
       </div>
     </div>

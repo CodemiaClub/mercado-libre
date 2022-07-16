@@ -1,5 +1,4 @@
 import "../../hojas-de-estilo/Styles-Main/FilterCard.css";
-import { Switch, Stack } from "@chakra-ui/react";
 
 function FilterCard({ img, title, text }) {
   return (
