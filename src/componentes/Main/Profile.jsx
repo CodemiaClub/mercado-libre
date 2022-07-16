@@ -5,7 +5,9 @@ import { ChevronDownIcon } from "@chakra-ui/icons";
 function Profile() {
   return (
     <div className="profile">
+      <a href="https://tienda.mercadolibre.com.ar/hp-tienda-oficial">
       <div className="container-profile"></div>
+      </a>
       <Menu>
           
         <MenuButton
