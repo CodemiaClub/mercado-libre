@@ -5,7 +5,7 @@
     align-items: center;
 }
 
-.container-PagesProducts p:first-child{
+.one{
     background-color: rgba(0,0,0,.04);
     color: rgba(0,0,0,.45);
     font-weight: 600;
@@ -14,16 +14,22 @@
     cursor: pointer;
 }
 
-.siguien{
-   margin-left: 10px; 
-   color: #3483fa;
-   margin-left: 15px;
-   cursor: pointer;
+
+.siguiente{
+    display: flex;
+    align-items: center;
+    color: #3483fa;
+    margin-left: 5px;
+    padding: 5px 15px;
 }
 
+.siguiente p{
+    color: #3483fa;
+    cursor: pointer;
+}
 
-
-.siguien:hover{
+.siguiente:hover{
     background-color: #d6d6d6;
     padding: 5px 15px;
+    
 }

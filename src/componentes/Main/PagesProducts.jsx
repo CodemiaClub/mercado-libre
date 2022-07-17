@@ -4,10 +4,12 @@ import { FcNext } from "react-icons/fc";
 function PagesProducts(){
   return(
     <div className="container-PagesProducts">
-      <p>1</p>
+      <p className='one'>1</p>
       <p>de 7</p>
-      <p className='siguien'>Siguiente</p>
+      <div className="siguiente">
+      <p>Siguiente</p>
       <FcNext />
+      </div>
     </div>
   )    
 }
