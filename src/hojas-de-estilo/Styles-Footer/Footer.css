@@ -7,3 +7,19 @@
     background-color: #ededed;
     align-items: center;
 }
+
+
+.footerBackground{
+    width: 100%;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+}
+
+.footerMenuFooter{
+    display: flex;
+    justify-content: space-between;
+    width: 1000px;
+    background-color: white;
+    font-size: 14px;
+}
