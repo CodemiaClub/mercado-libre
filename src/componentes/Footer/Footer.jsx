@@ -1,4 +1,5 @@
 import '../../hojas-de-estilo/Styles-Footer/Footer.css';
+import FooterInformation from './FooterInformation';
 import FooterMenu from './FooterMenu';
 import FooterOption from './FooterOption';
 
@@ -52,7 +53,7 @@ function Footer() {
             nav5='Paramount+' />
         </div>
       </div>
-
+        <FooterInformation />
     </div >
   )
 }
